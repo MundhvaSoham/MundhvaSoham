@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/MundhvaSoham?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=MundhvaSoham&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)] (https://raw.githubusercontent.com/MundhvaSoham/myproject_/master/Soham%20Mundhva.png?token=GHSAT0AAAAAABSUVS5PBEIA2EN6IM6DMLPEYSYLL5A)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://raw.githubusercontent.com/MundhvaSoham/myproject_/master/Soham%20Mundhva.png?token=GHSAT0AAAAAABSUVS5PBEIA2EN6IM6DMLPEYSYLL5A)
 
 
 ## 👨🏻‍💻 &nbsp;About Me

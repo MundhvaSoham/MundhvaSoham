@@ -1,11 +1,11 @@
 # Hi, I'm Soham  👋 👨‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mundhva_soham?label=Follow)](https://twitter.com/intent/follow?screen_name=mundhva_soham)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Soham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohammundhva/)](https://www.linkedin.com/in/sohammundhva/)
+[![Linkedin: Soham](https://img.shields.io/badge/-Soham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohammundhva/)](https://www.linkedin.com/in/sohammundhva/)
 ![GitHub followers](https://img.shields.io/github/followers/MundhvaSoham?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=MundhvaSoham&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://raw.githubusercontent.com/MundhvaSoham/myproject_/master/Soham%20Mundhva.png?token=GHSAT0AAAAAABTKW6WX736WYODJV6XCIDNYYSZLTRQ)
+
 
 
 ## 👨🏻‍💻 &nbsp;About Me

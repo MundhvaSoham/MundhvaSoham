@@ -12,7 +12,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;Smart Contract Dev | Building DeFi 🔨 |I'm currently studying Computer Engineering at G H Patel College of Engineering and Technology, Anand.\
+🎓 &nbsp;Smart Contract Dev | Building DeFi 🔨 | I'm currently studying Computer Engineering at G H Patel College of Engineering and Technology, Anand.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Solidity, NodeJS and ExpressJS. Currently exploring Web3.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at mundhvasoham@gmail.com! I'll try to respond as soon as I can.
